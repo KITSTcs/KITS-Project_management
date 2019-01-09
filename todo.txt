@@ -1,0 +1,17 @@
+create a database with tables
+- master employee
+- holiday list (week begin date , holiday date) 
+..if there are 2 holidays in a calender week this table will have 2 entries.
+.. this table will only have entries for holidays other than weekends 
+- mismatch report
+
+get all master data from respective stakeholders:
+master employee list
+trs xl
+ultimatix xl
+project xl
+
+
+Next steps :
+Create VO using JPA and check if data is updated.
+-- start reading the ultimatix XL and update data in the mismatch_report table
